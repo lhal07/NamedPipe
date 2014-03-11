@@ -1,3 +1,9 @@
+/*******************************
+ * Named Pipe example code     *
+ * *****************************
+ * Author: Luis Lourenco, 2014 *
+ * ****************************/
+
 #include <stdio.h>
 #include <errno.h>
 #include <string.h>
